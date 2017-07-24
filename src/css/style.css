@@ -1,0 +1,25 @@
+.container {
+    /*position: relative;*/
+}
+.info {
+
+}
+.winner {
+    position: fixed;
+    padding: 3%;
+    border: 1px solid #b4b4b4;
+    border-radius: 5px;
+    font-size: 18px;
+    top: 250px;
+    left: 280px;
+    color: #0B5E56;
+}
+.button {
+    background-color: #1AA3A3;
+    padding: 20px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 5px;
+    margin: 4%;
+    width: 80%;
+}
